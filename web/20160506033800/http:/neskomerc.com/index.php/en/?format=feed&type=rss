@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home</title>
+		<description><![CDATA[]]></description>
+		<link>http://neskomerc.com/index.php/en/component/content/?view=featured</link>
+		<lastBuildDate>Fri, 06 May 2016 03:38:00 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://neskomerc.com/index.php/en/?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Welcome</title>
+			<link>http://neskomerc.com/index.php/en/home/2-uncategorised/4-welcome</link>
+			<guid isPermaLink="true">http://neskomerc.com/index.php/en/home/2-uncategorised/4-welcome</guid>
+			<description><![CDATA[<div class="feed-description"><p style="text-align: justify;">Our company NES – KOMERC d.o.o. seated in Tetovo, R. Macedonia , was established in 1992 year and its own aim is International Transport of Goods. Through the years we worked and developed to increase the quality of the services and professionalism, we cooperated with most influence transport companies from our country and abroad, we took knowledge, have build experience to maintain a high level and main aim that we had posed, and that is satisfied customers and associates.</p>
+<p style="text-align: justify;">Our main activity is transport, but we also offer services like customs mediating, warehousing the goods, delivery to customer ware-house with high respect of the customer needs. Transport relations that we usually do are: Macedonia, Albania, Serbia, Kosovo to Italy, Switzerland, Germany. The most to Italy and from Italy to Switzerland, Germany and conversely.</p>
+<p style="text-align: justify;">We do full, collective and special transport of goods which we execute with most sophisticated trucks and we constantly increase our vehicle fleet.<br />Through the years we proudly walk forward and we notice permanent increase in supplying new and modern vehicles, and also with employees who has knowledge and capacity to answer to every new challenge. Quality and professionalism were our main aims from the beginning of company establishing, and still are.<br />Satisfied customers are our main satisfaction. “<strong>Good voice can be heard far away.</strong>”</p>
+<p style="text-align: justify;">Today, our company became one of the most professional and successful companies for international transport in our country and abroad. With pleasure we can offer you our services, ready to accomplish all future challenges.</p>
+<p> </p>
+<p> </p>
+<p> </p></div>]]></description>
+			<author>info@neskomerc.com (Super User)</author>
+			<category>Featured</category>
+			<category>Uncategorised</category>
+			<pubDate>Fri, 15 Mar 2013 14:50:12 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
