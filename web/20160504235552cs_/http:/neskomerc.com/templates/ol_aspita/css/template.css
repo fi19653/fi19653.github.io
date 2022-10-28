@@ -1089,7 +1089,11 @@ ul.td-hmenu{
 }
 
 
+.td-nav:before, .td-nav:after{
 
+   background-image: url('/web/20160504235552im_/http://neskomerc.com/templates/ol_aspita/images/nav.png');
+
+}
 
 
 .td-nav:before{
