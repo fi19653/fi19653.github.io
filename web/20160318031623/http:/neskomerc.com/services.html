@@ -1,5 +1,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" class="chrome chrome106" slick-uniqueid="3"><head>
 
+	<script type="text/javascript"> 
+function disableselect(e){  
+return false  
+}  
+
+function reEnable(){  
+return true  
+}  
+
+//if IE4+  
+document.onselectstart=new Function ("return false")  
+document.oncontextmenu=new Function ("return false")  
+//if NS6  
+if (window.sidebar){  
+document.onmousedown=disableselect  
+document.onclick=reEnable  
+}
+</script>
 
 
 
@@ -15,6 +33,8 @@
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Home</title>
 
+	
+	
 
   <link href="https://web.archive.org/web/20160506033800/http://neskomerc.com/index.php/en/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
   <link href="https://web.archive.org/web/20160506045633/http://neskomerc.com/index.php/en/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
